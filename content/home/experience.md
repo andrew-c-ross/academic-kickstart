@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -19,27 +19,52 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Research Associate"
+  company = "Princeton University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "New Jersey"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Graduate Research Assistant"
+  company = "The Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Pennsylvania"
+  date_start = "2014-01-01"
+  date_end = "2017-12-31"
+  description = """
+  """
+  
+[[experience]]
+  title = "Visiting Studient"
+  company = "University of Maryland Center for Environmental Science, Horn Point Lab"
+  company_url = ""
+  location = "Maryland"
+  date_start = "2013-01-01"
+  date_end = "2014-12-31"
+  description = """
+  """
 
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "The Pennsylvania State University"
+  company_url = ""
+  location = "Pennsylvania"
+  date_start = "2012-01-01"
+  date_end = "2013-12-31"
+  description = """
+  """
+  
+[[experience]]
+  title = "Undergraduate Research Assistant"
+  company = "The Pennsylvania State University"
+  company_url = ""
+  location = "Pennsylvania"
+  date_start = "2010-01-01"
+  date_end = "2012-12-31"
+  description = """
+  """
 +++

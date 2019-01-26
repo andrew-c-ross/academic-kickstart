@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-19T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -10,31 +10,29 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Numerical modeling of estuaries",
+    "Machine learning",
+    "Subseasonal to seasonal forecasting"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Meteorology"
+  institution = "The Pennsylvania State University"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MS in Meteorology"
+  institution = "The Pennsylvania State University"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "BS in Meteorology"
+  institution = "The Pennsylvania State University"
+  year = 2013
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I'm a postdoc at Princeton University, where I work in NOAA's Geophysical Fluid Dynamics lab as part of the Cooperative Institute for Climate Science. My research focuses on influences of climate on estuaries, from over very short time scales (can we predict water temperature, salinity, and dissolved oxygen over the next month from subseasonal atmospheric model forecasts?) to much longer time scales (how will climate change in this century change dissolved oxygen, salinity, and estuarine circulation?). To do so, I employ both numerical modeling (using ROMS and FVCOM) and statistical and machine learning. 
