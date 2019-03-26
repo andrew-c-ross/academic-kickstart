@@ -39,7 +39,7 @@ date_format = "2006"
   """
   
 [[experience]]
-  title = "Visiting Studient"
+  title = "Visiting Student"
   company = "University of Maryland Center for Environmental Science, Horn Point Lab"
   company_url = ""
   location = "Maryland"
