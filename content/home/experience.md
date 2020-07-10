@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Professional history"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,13 +18,24 @@ date_format = "2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Associate Research Scholar"
+  company = "Princeton University"
+  company_url = ""
+  location = "New Jersey"
+  date_start = "2020-01-01"
+  date_end = ""
+  description = """
+  """
+  
 [[experience]]
   title = "Postdoctoral Research Associate"
   company = "Princeton University"
   company_url = ""
   location = "New Jersey"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2019-12-31"
   description = """
   """
 
