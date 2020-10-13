@@ -68,14 +68,4 @@ date_format = "2006"
   date_end = "2013-12-31"
   description = """
   """
-  
-[[experience]]
-  title = "Undergraduate Research Assistant"
-  company = "The Pennsylvania State University"
-  company_url = ""
-  location = "Pennsylvania"
-  date_start = "2010-01-01"
-  date_end = "2012-12-31"
-  description = """
-  """
 +++
